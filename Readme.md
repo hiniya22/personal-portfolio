@@ -39,7 +39,7 @@ index.html
 - All content and styles are within this file.
 - No backend or build tools required.
 
-## 🧩 Customization
+## 🧩 For Customization
 
 - Update profile image URL in the Hero section.
 - Change text, skills, and project details in their respective sections.
