@@ -23,7 +23,7 @@ This is a clean, modern, and responsive one-page portfolio built with **HTML**, 
 
 ## 📸 Demo
 
-![Portfolio Screenshot](https://res.cloudinary.com/dethm1ien/image/upload/v1755098561/profileimage_g9zafq.jpg)
+
 
 ## ✨ How to Use
 
